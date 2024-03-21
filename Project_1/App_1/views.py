@@ -4,3 +4,11 @@ from django.shortcuts import render,HttpResponse
 def func(request):
     return HttpResponse("Hello world")
 
+
+
+
+
+
+
+
+
